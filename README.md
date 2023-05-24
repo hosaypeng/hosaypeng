@@ -8,4 +8,4 @@
 
 - 👨🏼‍💻 I’m open to job opportunities.
 
-- 📫 My email: **hosaypeng@gmail.com**
+- 📫 My email: **hosaypeng(at)gmail.com**
