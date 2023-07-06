@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently enrolled in Le Wagon's Web Development bootcamp.
+- 🌱 I just finished Le Wagon's Web Development bootcamp.
 
 - 👨🏼‍💻 I’m open to job opportunities.
 
